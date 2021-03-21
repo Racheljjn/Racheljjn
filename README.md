@@ -1,4 +1,6 @@
 ### Hi there 👋
+🌱My name is Rachel. I am a front end developer based in Toronto🌱
+
 
 <!--
 **Racheljjn/Racheljjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
