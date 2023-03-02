@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱My name is Rachel. I am a front end developer based in Toronto🌱
+🌱My name is Rachel. I am a full stack developer based in Toronto🌱
 
 
 <!--
